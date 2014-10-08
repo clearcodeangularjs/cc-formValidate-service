@@ -2,7 +2,7 @@
   "name": "validate-form",
   "description": "Prepare array with validation errors to provide information for user.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "time.js",

@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.formValidate.service').factory('validateForm', function () {
+angular.module('cc.formValidate.service', []).factory('validateForm', function () {
     var validation_messages = {
         'required': function(field_name) {
             return 'Enter ' + field_name;

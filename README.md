@@ -4,7 +4,7 @@ Clearcode Form Validation Service
 Service for adding custom errors to error array - to print them when user tries to send form.
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-formValidate-service --save ```
 
 
 Usage
